@@ -245,7 +245,7 @@ body {
     border-radius: 8px;
     border: 1px solid #999;
     margin-right: 1rem;
-    width: 60%;
+    width: 100%;
     max-width: 300px;
     margin-bottom: 2rem; /* Increase space between input and button */
   }
